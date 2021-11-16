@@ -200,3 +200,13 @@ export const PageTitle = styled.Text`
     color: ${text_color};
     padding: 10px;
 `;
+
+//Home
+
+export const CategoryContainer = styled(InnerContainer)`
+padding: 25px;
+padding-top: 5px;
+align-items: left;
+color: ${secondary};
+`;
+
